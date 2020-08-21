@@ -11,3 +11,9 @@ permalink: /case_studies
 
 
 > "There are four kinds of business: tourism, food service, railroads, and sales"
+
+
+Great Sources of case studies are:
+
+- [IndieHackers](https://www.indiehackers.com/interviews/page/1)
+- [Starter Story](http://starterstory.com/)

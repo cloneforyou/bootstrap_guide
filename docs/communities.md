@@ -12,6 +12,8 @@ permalink: communities
 
 - [Indiehackers](https://www.indiehackers.com/)
 - [Maker Log](https://getmakerlog.com/)
+- [Dev.to](https://dev.to/)
+- [r/SaaS](https://www.reddit.com/r/SaaS/)
 
 **Paid**
 

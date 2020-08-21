@@ -19,3 +19,10 @@ Just the Docs gives your documentation a jumpstart with a responsive Jekyll them
 
 ## Getting started
 
+
+
+## General Books for Bootstrappers
+
+- MAKE book by Pieter Levels
+- Start small, stay small by Rob Walling
+- Company of One by Paul Jarvis
