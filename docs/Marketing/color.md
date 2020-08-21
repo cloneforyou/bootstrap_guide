@@ -2,6 +2,7 @@
 layout: default
 title: Color
 parent: Marketing
+permalink: marketing/color
 ---
 
 # Color Utilities
