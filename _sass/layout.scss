@@ -102,9 +102,11 @@
   min-height: $header-height;
   align-items: center;
 
-  height: $header-height;
-  max-height: $header-height;
-  border-bottom: $border $border-color;
+  @include mq(md) {
+    height: $header-height;
+    max-height: $header-height;
+    border-bottom: $border $border-color;
+  }
 }
 
 .site-title {
@@ -116,7 +118,7 @@
   padding-top: $sp-3;
   padding-bottom: $sp-3;
   color: $body-heading-color;
-  
+  @include fs-6;
 
   @include mq(md) {
     padding-top: $sp-2;
