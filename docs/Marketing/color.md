@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Color
-parent: marketing
+parent: Marketing
 
 ---
 
