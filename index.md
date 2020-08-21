@@ -19,10 +19,18 @@ Just the Docs gives your documentation a jumpstart with a responsive Jekyll them
 
 ## Getting started
 
-
+- [Ideation](/skills/ideation)
+- Development
+  - [Web Development](/skills/web_development)
+  - [Desktop Development](/skills/desktop_development)
+- [Validation](/skills/validation)
+- [Launching](/skills/launching)
+- [Growth](/skills/growth)
+- [Sales](/skills/sales)
 
 ## General Books for Bootstrappers
 
-- MAKE book by Pieter Levels
+- [MAKE book by Pieter Levels](https://makebook.io/)
+  - [Summary](https://levels.io/startups/)
 - Start small, stay small by Rob Walling
 - Company of One by Paul Jarvis
