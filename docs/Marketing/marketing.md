@@ -3,7 +3,7 @@ layout: default
 title: Marketing
 nav_order: 4
 has_children: true
-permalink: marketing
+permalink: /marketing
 ---
 
 # Marketing
