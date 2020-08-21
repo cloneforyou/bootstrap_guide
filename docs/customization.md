@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Customization
+title: Test 2
 nav_order: 6
 ---
 
-# Customization
+# Test 2
 {: .no_toc }
 
 ## Table of contents
