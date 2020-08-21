@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Web App Case Studies
+title: Web Apps
 parent: Business Categories
 nav_order: 1
 permalink: /categories/web_app

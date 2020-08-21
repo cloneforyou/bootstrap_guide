@@ -1,6 +1,6 @@
 ---
 layout: default
-title: E-Commerce Case Studies
+title: E-Commerce
 parent: Business Categories
 nav_order: 5
 permalink: /categories/e-commerce

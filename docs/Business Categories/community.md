@@ -1,13 +1,16 @@
 ---
 layout: default
-title: Paid Community Case Studies
+title: Paid Communities
 parent: Business Categories
 nav_order: 4
 permalink: /categories/community
 
 ---
 
-# Paid Community Case Studies
+# Paid Communities
+
+
+## Case Studies
 
 
 
@@ -15,7 +18,7 @@ permalink: /categories/community
 - [How I make my Money by Justin Jackson](https://justinjackson.ca/money)
 - [The Rise of Private Communities by Steve Pavlina](https://www.stevepavlina.com/blog/2018/01/rise-private-communities/)
 
-## Examples
+## Successful Examples
 
 - [Makerpad](https://www.makerpad.co/pricing)
 - [Founder Summit Remote](https://foundersummit.co/remote/)
