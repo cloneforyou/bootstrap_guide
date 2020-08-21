@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Bootstrap Travel Guide
+title: The Bootstrap Travel Guide
 description: 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://guide.bootstrap.mba" # the base hostname & protocol for your site, e.g. http://example.com
