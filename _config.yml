@@ -56,7 +56,7 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "The Bootstrap Travel Guide on GitHub":
+  "The Bootstrap Knowledge Guide on GitHub":
     - "//github.com/jakobgreenfeld/bootstrap_guide"
 
 # Makes Aux links open in a new tab. Default is false
