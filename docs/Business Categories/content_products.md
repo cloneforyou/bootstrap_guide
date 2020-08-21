@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Content Product Case Studies
-parent: Case Studies
+parent: Business Categories
 nav_order: 2
-permalink: /case_studies/content_product
+permalink: /categories/content_product
 
 ---
 

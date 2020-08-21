@@ -1,13 +1,15 @@
 ---
 layout: default
 title: Web App Case Studies
-parent: Case Studies
+parent: Business Categories
 nav_order: 1
-permalink: /case_studies/web_app
+permalink: /categories/web_app
 
 ---
 
-# Web App Case Studies
+# Web Apps
+
+## Case Studies
 
 - [Storemapper: Bootstrapped to $50,000/year in 2 years (with live metrics)](https://tylertringas.com/storemapper-bootstrapped-to-50000year-in-2-years-with-live-metrics/ )
 - [I wasted $40k on a fantastic startup idea](https://tjcx.me/posts/i-wasted-40k-on-a-fantastic-startup-idea/)
@@ -18,7 +20,7 @@ permalink: /case_studies/web_app
 - [Malcolm Ocean of Complice](https://blog.complice.co/post/130460454477/complice-at-2-years-howd-we-get-here)
 - [Bootstrapping My Side Project into a $1.4MM SaaS Business by Mike Kulakov](https://www.indiehackers.com/interview/bootstrapping-my-side-project-into-a-1-4mm-saas-business-b19daa40c6)
 
-## Books
+### Books
 
 - Zero to Sold by Arvid Kahl
 - Lost and Founder by Rand Fishkin

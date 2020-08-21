@@ -16,23 +16,28 @@ permalink: /skills/ideation
 - [How To Find SaaS Ideas by Tom Zaragoza)](https://tomzaragoza.com/how-to-find-saas-ideas)
 - [Scrath-an-itch-you-understand (by Arvid Kahl)](https://news.ycombinator.com/item?id=23290536)
 - [How to brainstorm great business ideas by Courtland Allen](https://www.indiehackers.com/post/how-to-brainstorm-great-business-ideas-ab51c3d51c)
+- [How to Use Software Idea Extraction to Start a Successful Company](https://ninjaoutreach.com/idea-extraction/)
 - [Watch out for unbundlings](http://jakobgreenfeld.com/unbundlings)
 - [the 4 kinds of side businesses you can start] by Justin Mares](http://justinmares.com/the-4-kinds-of-side-businesses-you-can-start/)
 - [Ideas aren't cheap by Justin Jackson](https://justinjackson.ca/good-ideas)
+- [Why people buy software by Justin Jackson](https://justinjackson.ca/why-people-buy-software)
+
 
 ## Principles and Frameworks
 
 - [The Meat Grinder approach by Tyler Tringas](https://tylertringas.com/business-ideas-meat-grinder/)
 - [Who wants this today? by Justin Jackson](https://justinjackson.ca/today)
 - [How to get startup ideas by Paul Graham](http://paulgraham.com/startupideas.html)
+- [Not every problem is a business opportunitiy](https://hunterwalk.com/2019/01/12/podcast-discovery-is-a-problem-but-its-not-a-company/)
 
 
 ![](/assets/images/stack.png)
+([Source](https://twitter.com/Roamfu/status/1277509784258969601))
 
 ## Ideas as a Service
 
 - [Nugget One Ideas](https://nugget.one/ideas)
-- [Five Ideas A Day][https://www.fiveideasaday.com/] (Newsletter)
+- [Five Ideas A Day](https://www.fiveideasaday.com/) (Newsletter)
 - [Trends.VC](https://join.trends.vc/) (Newsletter)
 - [IdeasDrop](https://www.ideasdrop.com/)
 
