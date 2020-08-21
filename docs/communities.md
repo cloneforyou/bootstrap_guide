@@ -8,12 +8,12 @@ permalink: communities
 # Communities
 
 
-** Free **
+**Free**
 
 - [Indiehackers](https://www.indiehackers.com/)
 - [Maker Log](https://getmakerlog.com/)
 
-** Paid **
+**Paid**
 
 - [WIP](https://wip.chat/)
 - [Nomad List](https://nomadlist.com/)
