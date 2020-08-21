@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Episode 1 - Introduction
-parent: Marketing
+parent: Web Development
 nav_order: 1
-permalink: /marketing/1
+permalink: /skills/web_development
 
 ---
 

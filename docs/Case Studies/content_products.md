@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Content Products Case Studies
+title: Content Product Case Studies
 parent: Case Studies
 nav_order: 1
-permalink: /case_studies/content_products
+permalink: /case_studies/content_product
 
 ---
 
-# Content Products Case Studies
+# Content Product Case Studies
