@@ -17,12 +17,17 @@ permalink: /skills/ideation
 - [Scrath-an-itch-you-understand (by Arvid Kahl)](https://news.ycombinator.com/item?id=23290536)
 - [How to brainstorm great business ideas by Courtland Allen](https://www.indiehackers.com/post/how-to-brainstorm-great-business-ideas-ab51c3d51c)
 - [Watch out for unbundlings](http://jakobgreenfeld.com/unbundlings)
+- [the 4 kinds of side businesses you can start] by Justin Mares](http://justinmares.com/the-4-kinds-of-side-businesses-you-can-start/)
+- [Ideas aren't cheap by Justin Jackson](https://justinjackson.ca/good-ideas)
 
 ## Principles and Frameworks
 
 - [The Meat Grinder approach by Tyler Tringas](https://tylertringas.com/business-ideas-meat-grinder/)
 - [Who wants this today? by Justin Jackson](https://justinjackson.ca/today)
 - [How to get startup ideas by Paul Graham](http://paulgraham.com/startupideas.html)
+
+
+![](/assets/images/stack.png)
 
 ## Ideas as a Service
 

@@ -5,6 +5,8 @@ nav_order: 6
 permalink: podcasts
 ---
 
+# Bootstrap Podcasts
+
 - [Indie Hackers Podcast](https://www.indiehackers.com/podcast)
 - [Software Social](https://softwaresocial.dev/) by Colleen Schnettler and Michele Hansen
 - [The Bootstrapped Founder](https://bootstrapped-founder.transistor.fm/) by Arvid Kahl 
