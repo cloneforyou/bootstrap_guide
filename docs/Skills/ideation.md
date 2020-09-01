@@ -18,9 +18,10 @@ permalink: /skills/ideation
 - [How to brainstorm great business ideas by Courtland Allen](https://www.indiehackers.com/post/how-to-brainstorm-great-business-ideas-ab51c3d51c)
 - [How to Use Software Idea Extraction to Start a Successful Company](https://ninjaoutreach.com/idea-extraction/)
 - [Watch out for unbundlings](http://jakobgreenfeld.com/unbundlings)
-- [the 4 kinds of side businesses you can start] by Justin Mares](http://justinmares.com/the-4-kinds-of-side-businesses-you-can-start/)
+- [the 4 kinds of side businesses you can start by Justin Mares](http://justinmares.com/the-4-kinds-of-side-businesses-you-can-start/)
 - [Ideas aren't cheap by Justin Jackson](https://justinjackson.ca/good-ideas)
 - [Why people buy software by Justin Jackson](https://justinjackson.ca/why-people-buy-software)
+- [How to Find Problems to Solve and Get Early Adopters by Cold-Calling Businesses](https://www.indiehackers.com/@sarwech/how-to-find-problems-to-solve-and-get-early-adopters-by-cold-calling-businesses-b410db7a83)
 
 
 ## Principles and Frameworks
@@ -51,3 +52,5 @@ permalink: /skills/ideation
 ## Advice
 
 > Many startups compete in established market categories and do so successfully by first breaking up the market into smaller pieces and focusing on one piece they can win. The goal of [this strategy] is to carve off a piece of the market where the rules are a little bit different - just enough to give your product an edge over the category leader. – April Dunford, "Obviously Awesome"
+
+

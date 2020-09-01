@@ -7,6 +7,8 @@ permalink: communities
 
 # Communities
 
+This entire journey is easier if you have great community.
+
 
 **Free**
 
@@ -19,3 +21,7 @@ permalink: communities
 
 - [WIP](https://wip.chat/)
 - [Nomad List](https://nomadlist.com/)
+- [Founder Cafe](https://www.foundercafe.com/)
+- [Dynamite Circle](https://www.tropicalmba.com/join-the-dynamite-circle/)
+- [Trends Community](https://trends.co/)
+- [Indie Stack](https://indiestack.co/)
